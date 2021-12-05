@@ -3,7 +3,7 @@
 
 ## Description ##
 
-Veuillez trouver sur ce répertoire github le projet spring. J'ai malheureusement rencontré des problèmes d'initialisation du projet vers mongo. 
+Veuillez trouver sur ce répertoire github le projet spring. J'ai malheureusement rencontré des problèmes d'initialisation du projet vers docker. 
 
 Pour le déploiement de l'application sur docker il faut executer les commandes suivantes
 
